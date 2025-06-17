@@ -1,6 +1,6 @@
 # Tribute Page for Atal Bihari Vajpayee
 
-![image](https://github.com/Alok-2002/Tribute_Page_For_Atal_Bihar_Vajpaayee/assets/93814546/b3f3e9f7-274b-4b0b-b77c-57d22d0d0fd2)
+![image](https://github.com/Deepakcode607/TRIBUTE-PAGE.git)
 
 
 This repository contains a tribute page dedicated to the great Indian statesman and former Prime Minister, Atal Bihari Vajpayee. The page is built using HTML, CSS, and JavaScript to showcase his life, achievements, and contributions to the nation.
@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/alok-2002/Tribute_Page_For_Atal_Bihar_Vajpaayee.git
+git clone https://github.com/Deepakcode607/TRIBUTE-PAGE.git
 ```
 
 2. Navigate to the project directory:
